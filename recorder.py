@@ -9,11 +9,13 @@ sdr.center_freq = 53e6
 sdr.gain = 20 
 
 
+
+
 lightmeup = []
 times = []
 gdat = []
 for i in range(40000):
-    current = np.datetime64(datetime.datetime.utcnow())
+    current = np.datetime64(datetime.datetime.now())
     samps = sdr.read_samples(32500*256)
     maxme =  np.abs(samps).max()
     meanme = np.abs(samps).mean()
