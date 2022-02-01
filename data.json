@@ -3,3480 +3,3480 @@
         {
             "id": 0,
             "name": "AGU23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 1,
             "name": "AGU23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 2,
             "name": "AGU23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 3,
             "name": "AGU23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 4,
             "name": "AGU23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 5,
             "name": "AGU23L17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 6,
             "name": "ALM23L11",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 7,
             "name": "AMA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 8,
             "name": "AMA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 9,
             "name": "AMA23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 10,
             "name": "AMA23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 11,
             "name": "AMA23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 12,
             "name": "AMR23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 13,
             "name": "AMR23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 14,
             "name": "AMR23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 15,
             "name": "AZA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 16,
             "name": "AZA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 17,
             "name": "AZA23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 18,
             "name": "AZA23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 19,
             "name": "AZA23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 20,
             "name": "AZA23L17",
-            "symbolSize": 3,
+            "symbolSize": 4,
             "value": 5,
             "category": 0
         },
         {
             "id": 21,
             "name": "AZA23L18",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 22,
             "name": "AZA23L19",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 23,
             "name": "AZA23X20",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 24,
             "name": "AZU23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 25,
             "name": "AZU23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 26,
             "name": "AZU23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 27,
             "name": "AZU23X16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 28,
             "name": "BEL23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 29,
             "name": "BEL23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 30,
             "name": "BEL23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 31,
             "name": "BEL23X14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 32,
             "name": "BEO23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 33,
             "name": "BOA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 34,
             "name": "BOA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 35,
             "name": "BOA23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 36,
             "name": "BOA23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 37,
             "name": "BOL23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 38,
             "name": "BOL23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 39,
             "name": "BOL23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 40,
             "name": "BQE23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 41,
             "name": "BQE23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 42,
             "name": "BQE23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 43,
             "name": "BUM23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 44,
             "name": "BUM23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 45,
             "name": "BUM23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 46,
             "name": "BUM23X16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 47,
             "name": "BVA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 48,
             "name": "BVA23T11",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 49,
             "name": "CAM23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 50,
             "name": "CAM23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 51,
             "name": "CAM23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 52,
             "name": "CAM23X15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 53,
             "name": "CHA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 54,
             "name": "CHA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 55,
             "name": "CHA23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 56,
             "name": "CHA23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 57,
             "name": "CHA23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 58,
             "name": "CHA23L17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 59,
             "name": "CHA23L18",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 60,
             "name": "CHA23X19",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 61,
             "name": "CHI23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 62,
             "name": "CHI23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 63,
             "name": "CHI23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 64,
             "name": "CHI23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 65,
             "name": "CHI23L17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 66,
             "name": "CHI23L18",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 67,
             "name": "COL23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 68,
             "name": "COL23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 69,
             "name": "DDO23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 70,
             "name": "DDO23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 71,
             "name": "DDO23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 72,
             "name": "DON23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 73,
             "name": "DON23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 74,
             "name": "DON23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 75,
             "name": "DOR23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 76,
             "name": "DOR23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 77,
             "name": "DOR23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 78,
             "name": "DOR23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 79,
             "name": "DOR23X17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 80,
             "name": "ELA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 81,
             "name": "ENE23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 82,
             "name": "ENE23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 83,
             "name": "ENE23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 84,
             "name": "ENE23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 85,
             "name": "ENE23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 86,
             "name": "ESM23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 87,
             "name": "FEL23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 88,
             "name": "FEL23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 89,
             "name": "FIL23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 90,
             "name": "FIL23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 91,
             "name": "FIL23X16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 92,
             "name": "FLR23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 93,
             "name": "FLR23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 94,
             "name": "FLR23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 95,
             "name": "FLR23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 96,
             "name": "GCC23X11",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 97,
             "name": "GRO23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 98,
             "name": "GRO23X14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 99,
             "name": "GTO23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 100,
             "name": "GTO23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 101,
             "name": "HER23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 102,
             "name": "HER23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 103,
             "name": "HER23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 104,
             "name": "HER23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 105,
             "name": "HER23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 106,
             "name": "HER23X17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 107,
             "name": "INS23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 108,
             "name": "INS23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 109,
             "name": "INS23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 110,
             "name": "INS23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 111,
             "name": "INS23X12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 112,
             "name": "IRR23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 113,
             "name": "IRR23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 114,
             "name": "IRR23X15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 115,
             "name": "LMC23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 116,
             "name": "LMC23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 117,
             "name": "LMC23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 118,
             "name": "MAN23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 119,
             "name": "MAN23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 120,
             "name": "MAN23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 121,
             "name": "MAN23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 122,
             "name": "MAN23X17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 123,
             "name": "MAR23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 124,
             "name": "MAR23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 125,
             "name": "MAR23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 126,
             "name": "MAR23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 127,
             "name": "MAR23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 128,
             "name": "MAZ23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 129,
             "name": "MAZ23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 130,
             "name": "MAZ23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 131,
             "name": "MAZ23X15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 132,
             "name": "MGT23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 133,
             "name": "MGT23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 134,
             "name": "MGT23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 135,
             "name": "MGT23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 136,
             "name": "MLA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 137,
             "name": "MLA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 138,
             "name": "MLA23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 139,
             "name": "MLA23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 140,
             "name": "MNA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 141,
             "name": "MNA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 142,
             "name": "MTO23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 143,
             "name": "MTO23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 144,
             "name": "MTO23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 145,
             "name": "MTO23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 146,
             "name": "MTO23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 147,
             "name": "MTO23L17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 148,
             "name": "MTO23L18",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 149,
             "name": "MTO23L19",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 150,
             "name": "MTO23L20",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 151,
             "name": "MTO23L21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 152,
             "name": "MTO23X22",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 153,
             "name": "MTT23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 154,
             "name": "MTT23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 155,
             "name": "MTT23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 156,
             "name": "NRA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 157,
             "name": "NRA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 158,
             "name": "NRA23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 159,
             "name": "NRA23X15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 160,
             "name": "NSA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 161,
             "name": "NSA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 162,
             "name": "NSA23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 163,
             "name": "NSA23X15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 164,
             "name": "PRA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 165,
             "name": "PRA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 166,
             "name": "PRA23X16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 167,
             "name": "PRO23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 168,
             "name": "PRO23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 169,
             "name": "PRO23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 170,
             "name": "PRO23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 171,
             "name": "PSO23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 172,
             "name": "PSO23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 173,
             "name": "PSO23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 174,
             "name": "PSO23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 175,
             "name": "PSO23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 176,
             "name": "PSO23L17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 177,
             "name": "PSO23L18",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 178,
             "name": "PSO23L19",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 179,
             "name": "PSO23L20",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 180,
             "name": "PSO23T22",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 181,
             "name": "PSV23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 182,
             "name": "PSV23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 183,
             "name": "PSV23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 184,
             "name": "PSV23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 185,
             "name": "QHI23L11",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 186,
             "name": "QHI23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 187,
             "name": "QHI23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 188,
             "name": "RIO23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 189,
             "name": "RIO23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 190,
             "name": "RIO23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 191,
             "name": "RIO23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 192,
             "name": "RIO23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 193,
             "name": "RIO23X17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 194,
             "name": "ROS23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 195,
             "name": "ROS23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 196,
             "name": "ROS23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 197,
             "name": "ROS23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 198,
             "name": "ROS23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 199,
             "name": "ROS23L19",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 200,
             "name": "RSA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 201,
             "name": "RSA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 202,
             "name": "SCE23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 203,
             "name": "SCE23X12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 204,
             "name": "SCH23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 205,
             "name": "SCH23X13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 206,
             "name": "SIO23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 207,
             "name": "SIO23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 208,
             "name": "SIO23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 209,
             "name": "SIO23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 210,
             "name": "SLM23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 211,
             "name": "SLM23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 212,
             "name": "SLM23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 213,
             "name": "SLM23X16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 214,
             "name": "SNA23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 215,
             "name": "SNA23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 216,
             "name": "SNA23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 217,
             "name": "SUP23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 218,
             "name": "SUP23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 219,
             "name": "SUP23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 220,
             "name": "SUP23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 221,
             "name": "SUP23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 222,
             "name": "VBO23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 223,
             "name": "VBO23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 224,
             "name": "VBO23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 225,
             "name": "VBO23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 226,
             "name": "VBO23X16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 227,
             "name": "VCT23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 228,
             "name": "VCT23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 229,
             "name": "VCT23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 230,
             "name": "VCT23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 231,
             "name": "VCT23X15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 232,
             "name": "VIR23L12",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 233,
             "name": "VIR23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 234,
             "name": "VIR23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 235,
             "name": "VMA23L13",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 236,
             "name": "VMA23L14",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 237,
             "name": "VMA23L15",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 238,
             "name": "VMA23L16",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 239,
             "name": "VMA23X17",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 0
         },
         {
             "id": 240,
             "name": "2AG2AG61",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 242,
             "name": "2AG3AG41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 244,
             "name": "2AG14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 246,
             "name": "2AG15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 248,
             "name": "2AG15R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 250,
             "name": "2AG16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 252,
             "name": "2AG7PA31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 254,
             "name": "NO EXISTE",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 256,
             "name": "2AN12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 258,
             "name": "2AN12R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 260,
             "name": "2AN13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 262,
             "name": "2AN3AN41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 264,
             "name": "2AN14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 266,
             "name": "2AN15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 268,
             "name": "2AN5RS21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 270,
             "name": "2AN16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 272,
             "name": "2AN6QH31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 274,
             "name": "2AM12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 276,
             "name": "2AM2IR21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 278,
             "name": "2AM13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 280,
             "name": "2AM3CH81",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 282,
             "name": "2AM3IR21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 284,
             "name": "2AM3NR31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 286,
             "name": "2AM14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 288,
             "name": "2AM4IN21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 290,
             "name": "AS2MM1S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 292,
             "name": "2AS3AS61",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 294,
             "name": "2AS4PS81",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 296,
             "name": "2AS15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 298,
             "name": "2AS6MM01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 300,
             "name": "2AS7EN51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 302,
             "name": "2AS7EN61",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 304,
             "name": "2AS18R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 306,
             "name": "2AS6AS81",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 308,
             "name": "2AS8EN31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 310,
             "name": "2AS8MM91",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 312,
             "name": "2AS19R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 314,
             "name": "2AZ2AZ31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 316,
             "name": "2AZ13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 318,
             "name": "2AZ3FI31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 320,
             "name": "2AZ15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 322,
             "name": "2BE12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 324,
             "name": "2BE14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 326,
             "name": "2BE15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 328,
             "name": "2BE5VB41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 330,
             "name": "2BA12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 332,
             "name": "2BA2SI51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 334,
             "name": "2BA2VI41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 336,
             "name": "2BA2BA51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 338,
             "name": "2BA13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 340,
             "name": "2BA13R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 342,
             "name": "2BA14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 344,
             "name": "2BO12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 346,
             "name": "2BO2PV41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 348,
             "name": "2BO2PV51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 350,
             "name": "2BO3MZ31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 352,
             "name": "2BO3BO41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 354,
             "name": "2HE4BQ21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 356,
             "name": "2BQ2RO41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 358,
             "name": "2CA4BQ41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 360,
             "name": "2BU12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 362,
             "name": "2BU2BU41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 364,
             "name": "2BU2VB41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 366,
             "name": "2BU13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 368,
             "name": "2BU3MT21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 370,
             "name": "2BU14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 372,
             "name": "2CA12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 374,
             "name": "2CA3RO61",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 376,
             "name": "2CA13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 378,
             "name": "2CC12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 380,
             "name": "2CC13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 382,
             "name": "2CC3MN31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 384,
             "name": "2CC4VM61",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 386,
             "name": "2CC14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 388,
             "name": "2CC5MA41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 390,
             "name": "2CC15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 392,
             "name": "2CC5MN21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 394,
             "name": "2CC6HE61",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 396,
             "name": "2CC16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 398,
             "name": "2CC17R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 400,
             "name": "2CC7CC81",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 402,
             "name": "CH3MM3S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 404,
             "name": "CH3CH4S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 406,
             "name": "MM6CH4S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 408,
             "name": "CH4S2A1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 410,
             "name": "2CH5CH71",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 412,
             "name": "2CH5CH81",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 414,
             "name": "CH6MM1S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 416,
             "name": "CH6MM4S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 418,
             "name": "PS3CH6S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 420,
             "name": "2CH7MA31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 422,
             "name": "2CH7MM81",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 424,
             "name": "2CH18R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 426,
             "name": "2CO12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 428,
             "name": "2CO2CO31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 430,
             "name": "2CO3PA21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 432,
             "name": "2DD2DD31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 434,
             "name": "2DD12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 436,
             "name": "2DD14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 438,
             "name": "2DD4SU41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 440,
             "name": "2DN2DR41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 442,
             "name": "2DN3NS21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 444,
             "name": "2DN13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 446,
             "name": "2DN4VC41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 448,
             "name": "2DR12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 450,
             "name": "2DR2DR41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 452,
             "name": "2DR2DR42",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 454,
             "name": "2DR14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 456,
             "name": "2DR5GT31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 458,
             "name": "2EL12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 460,
             "name": "2EN12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 462,
             "name": "2EN13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 464,
             "name": "2EN14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 466,
             "name": "2EN15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 468,
             "name": "2EN5EN61",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 470,
             "name": "2FE12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 472,
             "name": "2FE13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 474,
             "name": "2FI2FI31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 476,
             "name": "2FI13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 478,
             "name": "2FI3NR31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 480,
             "name": "2FI3LM31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 482,
             "name": "2FL2PV31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 484,
             "name": "2FL5NS41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 486,
             "name": "2FL16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 488,
             "name": "2GT12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 490,
             "name": "2GT13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 492,
             "name": "2HE12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 494,
             "name": "2HE13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 496,
             "name": "2HE15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 498,
             "name": "2HE6IN31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 500,
             "name": "2HE16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 502,
             "name": "2HE16R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 504,
             "name": "2IN3MS31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 506,
             "name": "2IN13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 508,
             "name": "2IN14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 510,
             "name": "2IR12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 512,
             "name": "2IR13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 514,
             "name": "2IR13R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 516,
             "name": "2LM2LM41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 518,
             "name": "2LM12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 520,
             "name": "2MA13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 522,
             "name": "2MA4MN21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 524,
             "name": "2MA14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 526,
             "name": "2MA16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 528,
             "name": "2MA6MM21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 530,
             "name": "2MS12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 532,
             "name": "2MS13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 534,
             "name": "2MS14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 536,
             "name": "2MS4MS61",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 538,
             "name": "2MZ2MZ41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 540,
             "name": "2MZ3ML51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 542,
             "name": "2MZ13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 544,
             "name": "2MZ13R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 546,
             "name": "2MZ14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 548,
             "name": "2AM4MG21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 550,
             "name": "2MG12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 552,
             "name": "2MG13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 554,
             "name": "2MG14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 556,
             "name": "2MG4VB41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 558,
             "name": "2MG5RS21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 560,
             "name": "2ML2ML31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 562,
             "name": "2ML13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 564,
             "name": "2ML3VC31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 566,
             "name": "2ML14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 568,
             "name": "2ML15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 570,
             "name": "2MM12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 572,
             "name": "MM3CH4S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 574,
             "name": "MM4MM1S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 576,
             "name": "2MM5PS51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 578,
             "name": "MM6MM3S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 580,
             "name": "MM6S1A2",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 582,
             "name": "MM6S2A4",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 584,
             "name": "MM6MM4S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 586,
             "name": "2MM7PS51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 588,
             "name": "2MM17R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 590,
             "name": "MM7PS5S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 592,
             "name": "2MM9VM31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 594,
             "name": "2MM9VM41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 596,
             "name": "2MM1PS71",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 598,
             "name": "2MM1PS31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 600,
             "name": "MM1AS3S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 602,
             "name": "MM1S3A1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 604,
             "name": "2MT13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 606,
             "name": "2MT14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 608,
             "name": "2NR2NR41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 610,
             "name": "2NR13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 612,
             "name": "2NR14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 614,
             "name": "2NS12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 616,
             "name": "2NS3NS41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 618,
             "name": "2NS14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 620,
             "name": "2NS14R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 622,
             "name": "2PA13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 624,
             "name": "2PA13R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 626,
             "name": "2PR12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 628,
             "name": "2PR13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 630,
             "name": "2PR14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 632,
             "name": "2PR15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 634,
             "name": "2PR5SC21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 636,
             "name": "2PS12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 638,
             "name": "PS4MM1S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 640,
             "name": "PS5MM7S1",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 642,
             "name": "2PS16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 644,
             "name": "2PS6PS81",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 646,
             "name": "2PS19R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 648,
             "name": "2PV12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 650,
             "name": "2PV13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 652,
             "name": "2QH1QH21",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 654,
             "name": "2QH12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 656,
             "name": "2QH12R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 658,
             "name": "2QH13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 660,
             "name": "2QH13R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 662,
             "name": "2RI12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 664,
             "name": "2RI2RI31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 666,
             "name": "2RI2RI61",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 668,
             "name": "2RI14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 670,
             "name": "2RI4SU51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 672,
             "name": "2RI15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 674,
             "name": "2RI5SU31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 676,
             "name": "2RI16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 678,
             "name": "2RO12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 680,
             "name": "2RO13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 682,
             "name": "2RO14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 684,
             "name": "2RO15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 686,
             "name": "2RO16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 688,
             "name": "2RO19R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 690,
             "name": "2RO19R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 692,
             "name": "2RS12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 694,
             "name": "2RS12R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 696,
             "name": "2RS13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 698,
             "name": "2SI2SI51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 700,
             "name": "2SI13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 702,
             "name": "2SI14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 704,
             "name": "2SA12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 706,
             "name": "2SA2SA51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 708,
             "name": "2SA13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 710,
             "name": "2SA13R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 712,
             "name": "2SN12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 714,
             "name": "2SN12R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 716,
             "name": "2SN4SN51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 718,
             "name": "2SN15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 720,
             "name": "2SN15R02",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 722,
             "name": "2SN5VC31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 724,
             "name": "2SU2SU31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 726,
             "name": "2SU13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 728,
             "name": "2SU14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 730,
             "name": "2SU16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 732,
             "name": "2VB12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 734,
             "name": "2VB13R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 736,
             "name": "2VB14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 738,
             "name": "2VB15R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 740,
             "name": "2VC2VC31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 742,
             "name": "2VC3VC41",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 744,
             "name": "2VC14R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 746,
             "name": "2VI12R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 748,
             "name": "2VI2VI31",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 750,
             "name": "2VM3VM51",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         },
         {
             "id": 752,
             "name": "2VM16R01",
-            "symbolSize": 1,
-            "value": 3,
+            "symbolSize": 4,
+            "value": 5,
             "category": 1
         }
     ],
